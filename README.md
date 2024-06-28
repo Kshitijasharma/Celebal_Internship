@@ -33,9 +33,9 @@ Ensure you have the following Python libraries installed:
 
 ### CONCLUSIONS
 
-<img src="images/min_max_method.png" alt="Project Logo" width="200" height="150">
+<img src="images/min_max_method.png" alt="Project Logo" width="2000" height="1500"> <img src="images/standard_method.png" alt="Project Logo" width="2000" height="1500">
 
-<img src="images/standard_method.png" alt="Project Logo" width="200" height="150">
+
 
 
 
