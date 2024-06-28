@@ -5,10 +5,9 @@ Includes all the assignments and project.
 This repository contains Python code that demonstrates how to handle outliers in a dataset using two different scaling methods: Standardization (Z-score normalization) and Min-Max scaling. It includes examples using a dataset from Seaborn's built-in datasets.
 
 ### CONTENTS
--[Overview](#overview)
--[Dependencis](#dependencies)
--[Usage](#usage)
--[Example](#example)
+- [Overview](#overview)
+- [Dependencis](#dependencies)
+- [Conclusion](#conclusion)
 
 ### OVERVIEW
 Outliers in datasets can significantly impact statistical analyses and machine learning models. This repository provides methods to replace outliers using two common scaling techniques:
