@@ -39,7 +39,7 @@ Ensure you have the following Python libraries installed:
 ## Standardization: 
 Handling outliers using standardization (z-score) helps in scaling the data such that outliers are replaced with a threshold value, preserving the distribution of the data. This technique is useful for improving the robustness of statistical analyses and machine learning models that are sensitive to outliers.
 
-# Min-Max method:
+## Min-Max method:
 Before Scaling:
 Outliers are clearly visible beyond the whiskers in the boxplot.
 Data shows high variance in values.
