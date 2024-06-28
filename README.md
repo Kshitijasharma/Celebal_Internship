@@ -33,6 +33,8 @@ Ensure you have the following Python libraries installed:
 
 ### CONCLUSIONS
 
+![Sample Image](images/min_max_method.png)
+![Sample Image](images/standard_method.png)
 
 
 
