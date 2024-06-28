@@ -13,13 +13,13 @@ This repository contains Python code that demonstrates how to handle outliers in
 Outliers in datasets can significantly impact statistical analyses and machine learning models. This repository provides methods to replace outliers using two common scaling techniques:
 
 Standardization (Z-score normalization):
-
-Adjusts data to have a mean of 0 and a standard deviation of 1.
+Adjusts data to have a mean of 0 and a standard deviation of 1. 
 Less sensitive to outliers compared to Min-Max scaling.
-Min-Max Scaling:
 
+Min-Max Scaling:
 Scales data to a fixed range, typically [0, 1].
 Preserves the original distribution but can be sensitive to outliers.
+
 The code includes functions to visualize boxplots before and after outlier replacement using both methods.
 
 ### DEPENDENCIES
