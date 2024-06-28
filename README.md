@@ -33,7 +33,24 @@ Ensure you have the following Python libraries installed:
 
 ### CONCLUSIONS
 
-<img src="images/min_max_method.png" alt="Project Logo" width="2000" height="1500"> <img src="images/standard_method.png" alt="Project Logo" width="2000" height="1500">
+![Sample Image](images/min_max_method.png)
+![Sample Image](images/standard_method.png)
+
+## Standardization: 
+Handling outliers using standardization (z-score) helps in scaling the data such that outliers are replaced with a threshold value, preserving the distribution of the data. This technique is useful for improving the robustness of statistical analyses and machine learning models that are sensitive to outliers.
+
+# Min-Max method:
+Before Scaling:
+Outliers are clearly visible beyond the whiskers in the boxplot.
+Data shows high variance in values.
+
+After Scaling:
+Outliers are minimized and adjusted within the specified threshold range.
+Data is normalized, making it easier to compare features on a common scale.
+
+Using Min-Max Scaling effectively reduces the impact of outliers, ensuring that all features contribute equally to the analysis or machine learning model.
+
+
 
 
 
