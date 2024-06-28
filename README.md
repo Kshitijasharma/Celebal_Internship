@@ -33,8 +33,10 @@ Ensure you have the following Python libraries installed:
 
 ### CONCLUSIONS
 
-![Sample Image](images/min_max_method.png)
-![Sample Image](images/standard_method.png)
+<img src="images/min_max_method.png" alt="Project Logo" width="200" height="150">
+
+<img src="images/standard_method.png" alt="Project Logo" width="200" height="150">
+
 
 
 
