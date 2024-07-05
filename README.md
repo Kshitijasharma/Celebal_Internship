@@ -50,8 +50,7 @@ Data is normalized, making it easier to compare features on a common scale.
 
 Using Min-Max Scaling effectively reduces the impact of outliers, ensuring that all features contribute equally to the analysis or machine learning model.
 
-
-
+## WEEK-5 : Data Preprocessing
 
 
 
